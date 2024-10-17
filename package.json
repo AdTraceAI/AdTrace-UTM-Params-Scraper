@@ -28,16 +28,34 @@
     "next.js",
     "react",
     "typescript",
-    "seo"
+    "seo",
+    "adtrace",
+    "advertising",
+    "marketing",
+    "ads",
+    "tracking",
+    "analytics",
+    "utm-parameters",
+    "utm-scraper",
+    "utm-extractor",
+    "utm-parser",
+    "utm-generator",
+    "utm-builder",
+    "utm-scraper",
+    "utm-scraper-tool",
+    "utm-scraper-adtrace",
+    "utm-scraper-adtraceai",
+    "utm-scraper-adtrace-ai",
+    "utm-scraper-adtrace-ai-utm-scraper"
   ],
   "author": "AdTrace AI",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdTraceAI/UTM-Params-Scraper"
+    "url": "https://github.com/AdTraceAI/AdTrace-UTM-Params-Scraper"
   },
   "bugs": {
-    "url": "https://github.com/AdTraceAI/UTM-Params-Scraper/issues"
+    "url": "https://github.com/AdTraceAI/AdTrace-UTM-Params-Scraper/issues"
   },
-  "homepage": "https://github.com/AdTraceAI/UTM-Params-Scraper/readme"
+  "homepage": "https://github.com/AdTraceAI/AdTrace-UTM-Params-Scraper#readme"
 }

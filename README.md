@@ -12,7 +12,7 @@ A simple and efficient UTM parameter scraper tool built with Next.js and TypeScr
 
 ## Demo
 
-[Live Demo](https://your-demo-url.com)
+[Live Demo](https://adtrace-utm-params-scraper.vercel.app/)
 
 ## Getting Started
 
@@ -24,12 +24,14 @@ A simple and efficient UTM parameter scraper tool built with Next.js and TypeScr
 ### Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/yourusername/utm-scraper.git
-   cd utm-scraper
+   git clone https://github.com/AdTraceAI/AdTrace-UTM-Params-Scraper.git
+   cd AdTrace-UTM-Params-Scraper
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    # or
@@ -37,6 +39,7 @@ A simple and efficient UTM parameter scraper tool built with Next.js and TypeScr
    ```
 
 3. Run the development server:
+
    ```bash
    npm run dev
    # or
@@ -73,6 +76,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+AdTrace AI - [@adtraceai](https://twitter.com/adtraceai)
 
-Project Link: [https://github.com/yourusername/utm-scraper](https://github.com/yourusername/utm-scraper)
+Project Link: [https://github.com/AdTraceAI/AdTrace-UTM-Params-Scraper](https://github.com/AdTraceAI/AdTrace-UTM-Params-Scraper)
